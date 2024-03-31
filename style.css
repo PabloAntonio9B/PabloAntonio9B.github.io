@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(46, 57, 53);
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
